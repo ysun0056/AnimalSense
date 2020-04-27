@@ -1,0 +1,807 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Azuma 1.1.2\n"
+"POT-Creation-Date: 2020-01-30 12:23+0000\n"
+"PO-Revision-Date: 2019-04-08 16:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: UXL Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:13
+msgid "Maybe try a search?"
+msgstr ""
+
+#: 404.php:15
+msgid "Browse our pages."
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Previous"
+msgstr ""
+
+#: comments.php:63
+msgid "Next"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: content-archive-download.php:36 edd_templates/shortcode-download.php:50
+msgid "Select Options"
+msgstr ""
+
+#: content-front-page.php:18 content-page.php:39 content-search.php:53
+#: content-single.php:57 content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content-front-page.php:29 content-page.php:50
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-related.php:27
+msgid "Related"
+msgstr ""
+
+#: content-related.php:65 content-search.php:42 content.php:42
+msgid "No Title"
+msgstr ""
+
+#: content-related.php:82 content-search.php:57 content.php:57
+msgid "Continue Reading"
+msgstr ""
+
+#: functions.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:104
+msgid "Photographer: Ylanite Koppens"
+msgstr ""
+
+#: functions.php:109
+msgid "Photographer: Carl Cerstrand"
+msgstr ""
+
+#: functions.php:135
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:144
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:153
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:155
+msgid "Requires WooCommerce plugin."
+msgstr ""
+
+#: functions.php:163
+msgid "EDD Sidebar"
+msgstr ""
+
+#: functions.php:165
+msgid ""
+"For EDD pages including checkout, Download archives, category, tags and "
+"search pages. Requires Easy Digital Downloads plugin."
+msgstr ""
+
+#: functions.php:173
+msgid "Shop Filters"
+msgstr ""
+
+#: functions.php:175
+msgid ""
+"Horizontal widget area for product archives. Requires WooCommerce plugin."
+msgstr ""
+
+#: functions.php:183
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:185
+msgid "Add your own content above the header."
+msgstr ""
+
+#: functions.php:193
+msgid "Offers Bar"
+msgstr ""
+
+#: functions.php:195
+msgid "Add your own content below the site masthead."
+msgstr ""
+
+#: functions.php:203
+msgid "Homepage Slider/Hero Section"
+msgstr ""
+
+#: functions.php:205
+msgid ""
+"The large image/hero/slider area below the masthead on the homepage. Add "
+"more than one Image Widget to automatically create a slider."
+msgstr ""
+
+#: functions.php:213
+msgid "Top Footer"
+msgstr ""
+
+#: functions.php:214
+msgid "Full width area above the footer columns."
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:234
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:244
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:270 functions.php:339
+msgctxt "Google fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:301 functions.php:370
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions/customizer.php:30
+msgid ""
+"See \"Layout Options\" > \"Page Title Layout\" for where the header image is "
+"used."
+msgstr ""
+
+#: functions/customizer.php:48
+msgid "Primary Color"
+msgstr ""
+
+#: functions/customizer.php:49
+msgid "Site title, links, buttons and other highlights."
+msgstr ""
+
+#: functions/customizer.php:69
+msgid "Secondary Color"
+msgstr ""
+
+#: functions/customizer.php:70
+msgid ""
+"Header, sidebar, footer, posts (hover over) and products (hover over) "
+"background color."
+msgstr ""
+
+#: functions/customizer.php:80
+msgid "Layout Options"
+msgstr ""
+
+#: functions/customizer.php:98
+msgid "Container Width"
+msgstr ""
+
+#: functions/customizer.php:120
+msgid "Disable Search Form in Header"
+msgstr ""
+
+#: functions/customizer.php:138
+msgid "Page Title Layout"
+msgstr ""
+
+#: functions/customizer.php:139
+msgid ""
+"Large image header uses default \"Header Image\" or page/post \"Featured "
+"Image\" if available."
+msgstr ""
+
+#: functions/customizer.php:164
+msgid "Blog - Grid Layout"
+msgstr ""
+
+#: functions/customizer.php:187
+msgid "Blog - Posts Image Size"
+msgstr ""
+
+#: functions/customizer.php:188 functions/customizer.php:967
+msgid ""
+"See: \"Settings\" > \"Media\" (or any active plugins that control image "
+"sizes)"
+msgstr ""
+
+#: functions/customizer.php:205
+msgid "Sidebar Position"
+msgstr ""
+
+#: functions/customizer.php:209
+msgid "Left"
+msgstr ""
+
+#: functions/customizer.php:210
+msgid "Right"
+msgstr ""
+
+#: functions/customizer.php:227
+msgid "Enable Sticky Footer"
+msgstr ""
+
+#: functions/customizer.php:237 functions/customizer.php:283
+msgid "Homepage Sections"
+msgstr ""
+
+#: functions/customizer.php:238
+msgid ""
+"You should first select a Static Homepage if you have not already done so. "
+"See: \"Homepage Settings\""
+msgstr ""
+
+#: functions/customizer.php:255
+msgid "Activate Homepage Sections"
+msgstr ""
+
+#: functions/customizer.php:256
+msgid "Page Content is displayed by default if Homepage Sections is disabled."
+msgstr ""
+
+#: functions/customizer.php:284
+msgid ""
+"Check the box to display. Sortable: drag and drop into your preferred order."
+msgstr ""
+
+#: functions/customizer.php:304 functions/extras.php:660
+msgid "Featured Services"
+msgstr ""
+
+#: functions/customizer.php:325
+msgid "Feature "
+msgstr ""
+
+#: functions/customizer.php:346
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer.php:365
+msgid "Select Page"
+msgstr ""
+
+#: functions/customizer.php:366
+msgid ""
+"Displays title and excerpt of selected page. You can add an optional hand-"
+"crafted excerpt in the page editor (make sure []excerpt is checked in Screen "
+"Options)."
+msgstr ""
+
+#: functions/customizer.php:375
+msgid "Typography & Fonts"
+msgstr ""
+
+#: functions/customizer.php:387 functions/customizer.php:446
+#: functions/customizer.php:547 functions/customizer.php:589
+#: functions/customizer.php:631
+msgid "Site Title"
+msgstr ""
+
+#: functions/customizer.php:400
+msgid "Navigation"
+msgstr ""
+
+#: functions/customizer.php:413
+msgid "Content"
+msgstr ""
+
+#: functions/customizer.php:426
+msgid "Headings"
+msgstr ""
+
+#: functions/customizer.php:464 functions/customizer.php:565
+#: functions/customizer.php:607 functions/customizer.php:649
+msgid "Size"
+msgstr ""
+
+#: functions/customizer.php:485
+msgid "Weight"
+msgstr ""
+
+#: functions/customizer.php:503
+msgid "Transform"
+msgstr ""
+
+#: functions/customizer.php:506
+msgid "none"
+msgstr ""
+
+#: functions/customizer.php:506
+msgid "capitalize"
+msgstr ""
+
+#: functions/customizer.php:506
+msgid "lowercase"
+msgstr ""
+
+#: functions/customizer.php:506
+msgid "uppercase"
+msgstr ""
+
+#: functions/customizer.php:523
+msgid "Letter Spacing"
+msgstr ""
+
+#: functions/customizer.php:664
+msgid "EDD Options"
+msgstr ""
+
+#: functions/customizer.php:666
+msgid ""
+"Easy Digital Downloads options for Azuma theme. Requires Easy Digital "
+"Downloads plugin."
+msgstr ""
+
+#: functions/customizer.php:683
+msgid ""
+"Selecting \"Azuma Theme\" in Downloads > Settings > Styles > Default Button "
+"Color will make the EDD buttons follow the theme color/styling."
+msgstr ""
+
+#: functions/customizer.php:698
+msgid "Header Search"
+msgstr ""
+
+#: functions/customizer.php:699
+msgid "What should be searched for? Select downloads or all content."
+msgstr ""
+
+#: functions/customizer.php:703
+msgid "Downloads"
+msgstr ""
+
+#: functions/customizer.php:704
+msgid "All content"
+msgstr ""
+
+#: functions/customizer.php:723
+msgid "Header Account"
+msgstr ""
+
+#: functions/customizer.php:742
+msgid "User Logged In"
+msgstr ""
+
+#: functions/customizer.php:760
+msgid "Customer Account/Profile Page"
+msgstr ""
+
+#: functions/customizer.php:761
+msgid ""
+"If you have created a customer account page, select it here and the account "
+"icon will link to it."
+msgstr ""
+
+#: functions/customizer.php:776
+msgid "Enable Purchase History in Account Dropdown"
+msgstr ""
+
+#: functions/customizer.php:792
+msgid "Enable Download History in Account Dropdown"
+msgstr ""
+
+#: functions/customizer.php:808
+msgid "Enable Profile Editor in Account Dropdown"
+msgstr ""
+
+#: functions/customizer.php:827
+msgid "User Not Logged In"
+msgstr ""
+
+#: functions/customizer.php:845
+msgid "Customer Login/Registration Page"
+msgstr ""
+
+#: functions/customizer.php:846
+msgid ""
+"If you have created a customer login and registration page, select it here "
+"and the account icon will link to it."
+msgstr ""
+
+#: functions/customizer.php:861
+msgid "Enable Login Form in Account Dropdown"
+msgstr ""
+
+#: functions/customizer.php:877
+msgid "Enable Registration Form in Account Dropdown"
+msgstr ""
+
+#: functions/customizer.php:909
+msgid "Downloads - Grid Layout"
+msgstr ""
+
+#: functions/customizer.php:910
+msgid ""
+"Download product archives, categories, search results. Note: pages using "
+"[downloads] shortcode should use columns option e.g. [downloads columns="
+"\"4\"]"
+msgstr ""
+
+#: functions/customizer.php:934
+msgid "Downloads Archive Title"
+msgstr ""
+
+#: functions/customizer.php:935
+msgid ""
+"When you create at least one download, EDD creates a special \"/downloads/\" "
+"archive with \"Downloads\" page title. Change this here."
+msgstr ""
+
+#: functions/customizer.php:951
+msgid "Downloads Archive Description"
+msgstr ""
+
+#: functions/customizer.php:966
+msgid "Download Image Size"
+msgstr ""
+
+#: functions/customizer.php:986
+msgid "Download Placeholder Image"
+msgstr ""
+
+#: functions/customizer.php:1005
+msgid "Sidebar"
+msgstr ""
+
+#: functions/customizer.php:1021
+msgid "Enable EDD Sidebar on Single Download Pages"
+msgstr ""
+
+#: functions/customizer.php:1037
+msgid ""
+"Enable EDD Sidebar instead of Page Sidebar on Standard Pages containing the "
+"[downloads] Shortcode. Please note this can use a lot of resources if you "
+"have pages with a large amount of content."
+msgstr ""
+
+#: functions/customizer.php:1055
+msgid "Sidebar will only be visible if it contains active widget(s)."
+msgstr ""
+
+#: functions/customizer.php:1073
+msgid "See also \"No Sidebar\" template in page/download editor."
+msgstr ""
+
+#: functions/customizer.php:1081 functions/customizer.php:1092
+#: functions/customizer.php:1293
+msgid "Go Pro"
+msgstr ""
+
+#: functions/customizer.php:1083 functions/theme-help.php:85
+msgid ""
+"Upgrade to Azuma Pro for even more cool features and customization options."
+msgstr ""
+
+#: functions/customizer.php:1201
+msgid "Search..."
+msgstr ""
+
+#: functions/customizer.php:1276
+msgid "More options available"
+msgstr ""
+
+#: functions/customizer.php:1285
+msgid "Documentation"
+msgstr ""
+
+#: functions/customizer.php:1490
+msgid "Full (original full size image)"
+msgstr ""
+
+#: functions/customizer.php:1494
+msgid "(exact dimensions)"
+msgstr ""
+
+#: functions/customizer.php:1496
+msgid "(proportional)"
+msgstr ""
+
+#: functions/extras.php:303
+msgid "Search for:"
+msgstr ""
+
+#: functions/extras.php:304
+msgid "Search downloads&hellip;"
+msgstr ""
+
+#: functions/extras.php:306
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: functions/extras.php:406
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions/extras.php:406
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: functions/extras.php:408
+#, php-format
+msgid "Theme: %s"
+msgstr ""
+
+#: functions/extras.php:431
+msgid "options"
+msgstr ""
+
+#: functions/extras.php:666
+msgid "Page Content"
+msgstr ""
+
+#: functions/extras.php:674
+msgid "Product Categories"
+msgstr ""
+
+#: functions/extras.php:680
+msgid "New products"
+msgstr ""
+
+#: functions/extras.php:686
+msgid "Featured products"
+msgstr ""
+
+#: functions/extras.php:692
+msgid "On-sale products"
+msgstr ""
+
+#: functions/extras.php:698
+msgid "Top sellers"
+msgstr ""
+
+#: functions/extras.php:704
+msgid "Top rated products"
+msgstr ""
+
+#: functions/extras.php:856 functions/extras.php:887
+msgid "Read More"
+msgstr ""
+
+#: functions/extras.php:1004 functions/extras.php:1024
+#: functions/extras.php:1051
+msgid "Azuma Theme"
+msgstr ""
+
+#. translators: %s: link to the customizer
+#: functions/extras.php:1028
+#, php-format
+msgid ""
+"More options can be found at Appearance &gt; <a href=\"%s\">Customize</a>"
+msgstr ""
+
+#: functions/header-title.php:137 functions/header-title.php:176
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: functions/header-title.php:197
+msgid "404 Error"
+msgstr ""
+
+#. translators: %2s: number of posts by this author.
+#: functions/template-tags.php:59
+#, php-format
+msgid "%2s posts"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: functions/template-tags.php:68
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: functions/template-tags.php:88
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: functions/template-tags.php:105
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: functions/theme-help.php:19 functions/theme-help.php:32
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: functions/theme-help.php:19
+msgid "Theme Help"
+msgstr ""
+
+#: functions/theme-help.php:38
+msgid "Theme Links"
+msgstr ""
+
+#: functions/theme-help.php:39
+msgid "Theme Page"
+msgstr ""
+
+#: functions/theme-help.php:40
+msgid "Theme Demo"
+msgstr ""
+
+#: functions/theme-help.php:41 functions/theme-help.php:56
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions/theme-help.php:42
+msgid "Theme Support"
+msgstr ""
+
+#: functions/theme-help.php:49
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+#: functions/theme-help.php:59
+msgid ""
+"Do you need help to setup, configure and customize this theme? Check out the "
+"extensive theme documentation on our website."
+msgstr ""
+
+#: functions/theme-help.php:63
+#, php-format
+msgid "View %s Documentation"
+msgstr ""
+
+#: functions/theme-help.php:69
+msgid "Theme Options"
+msgstr ""
+
+#: functions/theme-help.php:72
+#, php-format
+msgid "%s makes use of the Customizer for the theme settings."
+msgstr ""
+
+#: functions/theme-help.php:76
+msgid "Customize Theme"
+msgstr ""
+
+#: functions/theme-help.php:82
+msgid "Upgrade"
+msgstr ""
+
+#: functions/theme-help.php:89
+msgid "GO PRO"
+msgstr ""
+
+#: functions/theme-help.php:111
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+#: functions/theme-help.php:111
+msgid "Azuma Review"
+msgstr ""
+
+#: functions/theme-help.php:111
+msgid "rate it"
+msgstr ""
+
+#: header-blank-canvas.php:24 header-landing-page.php:24 header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:41
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-shop-filters.php:20
+msgid "Product Filters"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Azuma"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://uxlthemes.com/theme/azuma/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Azuma is a customizable WordPress theme which features a sticky header, "
+"homepage hero or slider using the standard WordPress image widget, sortable "
+"homepage sections, custom colors and fonts, grid layout options and support "
+"for video posts/articles. Support for Easy Digital Downloads (EDD) and "
+"WooCommerce ecommerce plugins along with Wishlist and Quick View plugins is "
+"included along with an auto-updating shopping cart, sticky add-to-cart panel "
+"on single product pages and a horizontal product filter widget area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "UXL Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://uxlthemes.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blank Canvas"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr ""
