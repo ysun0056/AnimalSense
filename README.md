@@ -2,4 +2,4 @@
 
 E37 project Animal Sense
 
-Please view the "Animal Sense Iteration 2" folder to Iteration 2.
+Please view the "Animal Sense Iteration 2" folder for Iteration 2.
